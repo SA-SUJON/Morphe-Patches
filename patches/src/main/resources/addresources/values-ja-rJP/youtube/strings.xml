@@ -982,14 +982,14 @@ Automotive レイアウト
   <string name="morphe_back_button_always_exits_feed_title">「戻る」ボタンでアプリを終了</string>
   <string name="morphe_back_button_always_exits_feed_summary">ホームタブで「戻る」ボタンをタップしたときに、ホームフィードの最上部にスクロールせずに常にアプリを終了します</string>
   <!-- layout.theme.themePatch -->
-  <string name="morphe_theme_background_light_title">ライトテーマの背景</string>
+  <string name="morphe_theme_background_light_title">ライトモードのテーマ</string>
   <string name="morphe_theme_background_light_entry_1">アプリのデフォルト</string>
-  <string name="morphe_theme_background_light_entry_2">白</string>
-  <string name="morphe_theme_background_light_entry_3">Material You（ニュートラル）</string>
-  <string name="morphe_theme_background_light_entry_4">Material You（プライマリ）</string>
-  <string name="morphe_theme_background_light_entry_5">Material You（セカンダリ）</string>
-  <string name="morphe_theme_background_light_entry_6">Material You（ターシャリー）</string>
-  <string name="morphe_theme_background_light_entry_7">Catppuccin（ラテ）</string>
+  <string name="morphe_theme_background_light_entry_2">ホワイト</string>
+  <string name="morphe_theme_background_light_entry_3">Material You (Neutral)</string>
+  <string name="morphe_theme_background_light_entry_4">Material You (Primary)</string>
+  <string name="morphe_theme_background_light_entry_5">Material You (Secondary)</string>
+  <string name="morphe_theme_background_light_entry_6">Material You (Tertiary)</string>
+  <string name="morphe_theme_background_light_entry_7">Catppuccin Latte</string>
   <string name="morphe_theme_background_light_entry_8">ライトピンク</string>
   <string name="morphe_theme_background_light_entry_9">ライトブルー</string>
   <string name="morphe_theme_background_light_entry_10">ライトグリーン</string>
